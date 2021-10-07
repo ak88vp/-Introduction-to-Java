@@ -21,5 +21,6 @@ public class Academic {
         return "We can't rate this point";
 
     }
+    
 
 }
